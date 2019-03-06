@@ -1,2 +1,2 @@
 # CPP
-practice for cpp
+practice of cpp
